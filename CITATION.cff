@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Smirnov-Pinchukov
+    given-names: Grigorii
+  - family-names: Molyarova
+    given-names: Tamara
+title: "DiskCheF chemistry"
+abstract: A template to generate own ML-accelerated chemistry estimator
+license: MIT
+repository-code: "https://github.com/SmirnGreg/diskchef_chemistry"
+version: 1.0
+date-released: 2022-07-11
